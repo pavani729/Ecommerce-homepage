@@ -11,6 +11,9 @@ A modern and fully responsive ecommerce homepage designed using **HTML5** and **
 ---
 
 ## 📸 Screenshots
+![desktop_screenshot](https://github.com/user-attachments/assets/7c685dc4-3701-4a5e-9c47-5478c0fe4b2f)
+![mobile_screenshot](https://github.com/user-attachments/assets/9dba99f9-dbea-4e54-82a3-56dcddbcf3e2)
+
 
 
 ### 🔻 Full Page Preview
@@ -25,10 +28,7 @@ A modern and fully responsive ecommerce homepage designed using **HTML5** and **
 - 🔹 Transparent sticky header with navigation
 - 🔹 Hero banner with welcome message
 - 🔹 Responsive **About Us** section with text + image
-- 🔹 **Stats Cou![mobile_screenshot](https://github.com/user-attachments/assets/f532e55c-af30-42ef-93de-8de74240a9f0)
-![desktop_screenshot](https://github.com/user-attachments/assets/1400f21f-68ab-41f1-ac6f-37bf024a1f8e)
-![desktop_screenshot](https://github.com/user-attachments/assets/34225396-2f22-4819-9a91-68a7b62488dc)
-nter** for key business metrics  
+- 🔹 **Stats Counter** for key business metrics  
   *(⚠️ Not animated yet – JavaScript needed)*
 - 🔹 “Why Choose Us” section
 - 🔹 Modern footer with Quick Links, Services, and Contact info

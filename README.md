@@ -12,6 +12,7 @@ A modern and fully responsive ecommerce homepage designed using **HTML5** and **
 
 ## 📸 Screenshots
 ![desktop_screenshot](https://github.com/user-attachments/assets/7c685dc4-3701-4a5e-9c47-5478c0fe4b2f)
+
 ![mobile_screenshot](https://github.com/user-attachments/assets/9dba99f9-dbea-4e54-82a3-56dcddbcf3e2)
 
 ---
